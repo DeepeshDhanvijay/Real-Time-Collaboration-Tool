@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+# REAL-TIME COLLABORATION TOOL
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+*COMPANY*: CODTECH IT SOLUTIONS
 
-## Available Scripts
+*NAME*: DEEPESH DHANVIJAY
 
-In the project directory, you can run:
+*INTERN ID*: CT06DH2494
 
-### `npm start`
+*DOMAIN*: SOFTWARE DEVELOPMENT
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+*DURATION*: 6 wweks
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+*MENTOR*: NEELA SANTOSH
 
-### `npm test`
+*DESCRIPTION*:I built a Real-Time Code Editor using React.js, Node.js, and WebSockets (Socket.IO) that allows multiple users to work together on the same code file in real time, much like Google Docs but designed specifically for programming. The frontend, developed with React and the CodeMirror library, delivers a modern, responsive interface with syntax highlighting, theme customization, and multi-language support for languages like JavaScript, Python, and C++. Users can create or join rooms via unique IDs, and any code changes are instantly reflected for all connected participants. On the backend, I used Node.js with Express.js to handle routing and WebSocket communication, leveraging Socket.IO’s room-based event broadcasting to ensure seamless synchronization across all clients, even if someone joins mid-session. I implemented logic to send the latest code state to newly joined users, optimized state handling in React to minimize re-renders, and added error handling for disconnections and reconnections. This project gave me deep insights into real-time communication, bi-directional event handling, and the inner workings of collaborative web applications. I also experimented with enhancing the editor experience by allowing dynamic language mode switching, ensuring accurate syntax highlighting for different programming languages. Building and deploying this application taught me how to integrate frontend and backend technologies efficiently and manage data flow in live environments. In the future, I plan to extend it with authentication for user identity tracking, database integration for persistent file storage, and live preview functionality for HTML/CSS/JS projects, turning it into a fully featured online collaborative coding environment.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
